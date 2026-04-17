@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Katie's site</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      background: #f7f6f2;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    header {
+      padding: 80px 20px 40px;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 42px;
+      letter-spacing: 1px;
+    }
+
+    p.subtitle {
+      margin-top: 10px;
+      font-size: 16px;
+      color: #555;
+    }
+
+    nav {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    nav a {
+      margin: 0 12px;
+      text-decoration: none;
+      color: #333;
+      font-size: 14px;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    section {
+      margin-bottom: 50px;
+    }
+
+    h2 {
+      font-size: 20px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 6px;
+      margin-bottom: 15px;
+    }
+
+    .project {
+      margin-bottom: 20px;
+    }
+
+    .project-title {
+      font-weight: bold;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      font-size: 13px;
+      color: #777;
+      border-top: 1px solid #ddd;
+    }
+
+    .contact a {
+      color: #222;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>hiiii >-< im Katie1!!</h1>
+    <p class="subtitle"> remember to love urself! </p>
+  </header>
+
+
+  <div class="container">
+
+    <section id="about">
+      <h2>About</h2>
+      <p>
+        i like uhm idk..
+      </p>
+    </section>
+
+    </section>
+
+
+  </div>
+
+  <footer>
+     site made by me X3
+  </footer>
+
+</body>
+</html>
